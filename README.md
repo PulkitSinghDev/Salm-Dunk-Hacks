@@ -33,3 +33,4 @@ On top of that, we got to learn and experience the Teachable Machine platform by
 
 ## Resources
 - [ML Model Dataset SRC](src/)
+- [TF.js working model](https://pulkitsinghdev.tech/Salm-Dunk-Hacks/)
