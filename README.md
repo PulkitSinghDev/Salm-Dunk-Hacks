@@ -7,7 +7,7 @@ AI-powered app to feed your curiosity for basketball!
 When thought about it, the idea itself felt quite interesting to us in the first place; and since there are also people who've been interested in basketball but never got to learn much about it, we felt like it would be quite exciting for them to utilize AI to detect and learn about various moves and objects in the world of basketball!
 
 ## What it does
-Be it any object or any move that is related to basketball, it's immediately able to recognize and display all the information about it in realtime through your device's camera! 
+Be it any object or any move that is related to basketball, it's immediately able to recognize and display all the information about it in real-time through your device's camera! 
 
 ## How we built it
 The various technologies and languages that we've used to build this project are:
@@ -17,14 +17,19 @@ The various technologies and languages that we've used to build this project are
 - Teachable Machine
 - Tensorflow.js
 
-## Challenges we ran into
-
-## Accomplishments that we're proud of
+## Challenges we ran into & Accomplishments we are proud of
+As you know it's a festival season in our region many of us were busy with those things but we made it because of our teamwork! and the second was about creating a function to insert/remove a specific div on the basis of its prediction threshold in realtime, but by referencing some resources & other stuff we did it!
 
 ## What we learned
 Being a project that's quite unique and informative in itself, it actually helped us learn in detail about some of the facts about basketball that weren't known to us ever before!
 
-On top of that, we got to learn and experience the Teachable Machine platform by Google, through which we learnt how to build our own model and utilize the platform's API for realtime object detection within a browser!
+On top of that, we got to learn and experience the Teachable Machine platform by Google, through which we learned how to build our own model and utilize the platform's API for real-time object detection within a browser!
+
+## What's next for Crossover
+As we work more on our skills, we will add more features such as: 
+- We may add more large datasets in our model, making it more reliable and more informative for our users 
+- We may also add a chatbot that can help our users to interact with our application more easily 
+- As we want to help basketball fans, we may also add two portals for basketball coaches and normal users, so that they can interact and get a more professional level of knowledge!
 
 ## Working Model Preview
 ![Splash Screen](https://user-images.githubusercontent.com/71369943/130354862-63c72710-6151-467c-a81d-3bad00c41a09.png)
@@ -34,3 +39,5 @@ On top of that, we got to learn and experience the Teachable Machine platform by
 ## Resources
 - [ML Model Dataset SRC](src/)
 - [TF.js working model](https://pulkitsinghdev.tech/Salm-Dunk-Hacks/)
+- [LICENSE](LICENSE)
+- [Video](https://youtu.be/u7AN1P5_jsE)
