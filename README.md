@@ -31,3 +31,5 @@ On top of that, we got to learn and experience the Teachable Machine platform by
 ![Info Pop-up (2)](https://user-images.githubusercontent.com/71369943/130354854-cd387b5a-c49e-4319-8d7a-7f4662a7f9c8.png)
 ![Article Detail](https://user-images.githubusercontent.com/71369943/130354860-65c4e191-d2a5-4c32-9149-bdbe6091cdc3.png)
 
+## Resources
+- [ML Model Dataset SRC](src/)
